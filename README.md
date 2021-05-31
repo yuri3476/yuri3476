@@ -22,5 +22,5 @@ width:100%;">
 width:100%;">
 
 <p align="center"> 
-  <img  style=": right;" src="madara.giff"/> 
+  <img  style=": right;" src="madara.giff.gif"/> 
 </p>
