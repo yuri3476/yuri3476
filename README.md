@@ -1,4 +1,6 @@
-## Hi there, my name is Yuri 👋
+## Hi there, my name is Yuri <p align="center"> 
+  <img  style=": right;" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"/> 
+</p>
 
 * I live in 🇧🇷, Aracaju-SE 🌅
 * I am looking for opportunities to increase my knowledge 🧠
