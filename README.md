@@ -14,6 +14,11 @@ style="max-width:100%;">
 <img align="center" alt="yuri-Instagram" height="51" width="50" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"
 style="max-width:100%;">  
   
+<a href = "yurirezende541@gmail.com/" targe="_blank">
+<img align="center" alt="yuri-Instagram" height="51" width="50" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png"
+style="max-width:100%;">  
+  
+ 
 ## Skills
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
