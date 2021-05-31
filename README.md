@@ -1,5 +1,5 @@
 ## Hi there, my name is Yuri <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-* I live in 🇧🇷, Aracaju-SE 🌅
+* I live in 🇧🇷, Aracaju-SE👨‍💻
 * I am looking for opportunities to increase my knowledge 🧠
 * I am currently learning the basics in Java 🎓
 * I have knowledge in python 👨‍🎓
