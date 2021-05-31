@@ -12,7 +12,7 @@
 style="max-width:100%;">
   
 <a href = "https://www.instagram.com/yuriirezende/" targe="_blank">
-<img align="center" alt="yuri-Instagram" height="50" width="40" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"
+<img align="center" alt="yuri-Instagram" height="40" width="50" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"
 style="max-width:100%;">  
   
 ## Skills
