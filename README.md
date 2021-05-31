@@ -1,4 +1,4 @@
-## Hi there, my name is Yuri <p align="center"> 
+## Hi there, my name is Yuri <p align="center" height="50" width="50"> 
   <img  style=": right;" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"/> 
 </p>
 
