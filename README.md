@@ -1,4 +1,4 @@
-## Oiii eu sou Yuri Rezende!
+## Oii eu sou Yuri Rezende👋
 * Estudo na Universidade Tiradentes - Sergipe 💻
 
 <div align="center">
