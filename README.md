@@ -1,26 +1,32 @@
-## Hi there, my name is Yuri <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-* I live in 🇧🇷, Aracaju-SE👨‍💻
-* I am looking for opportunities to increase my knowledge 🧠
-* I am currently learning the basics in Java 🎓
-* I have knowledge in Python 👨‍🎓
-* Study at Tiradentes University - Sergipe 💻
+## Oiii eu sou Yuri Rezende!
+* Estudo na Universidade Tiradentes - Sergipe 💻
 
-## Connect with me
-<a href = "https://www.facebook.com/yuri.rezende.14289" targe="_blank">
-<img align="center" alt="yuri-facebook" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
-style="max-width:100%;">
+<div align="center">
+  <a href="https:https://github.com/yuri3476">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurirezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurirezende&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
   
-<a href = "https://www.instagram.com/yuriirezende/" targe="_blank">
-<img align="center" alt="yuri-Instagram" height="51" width="50" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png"
-style="max-width:100%;">  
-   
+  ##
  
-## Skills
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "60" style="max-
-width:100%;">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "60" style="max-
-width:100%;">
+ 
+<div> 
+  <a href="https://www.instagram.com/yuriirezende/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "yurirezende541@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yurii-rezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ 
+</div>
 
-<p align="center"> 
-  <img  style=": right;" src="madara.giff.gif"/> 
-</p>
+
+
+
+
+
