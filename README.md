@@ -8,16 +8,15 @@
 
   
   ##
- 
-
 
 ## Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;">
 
 
 
