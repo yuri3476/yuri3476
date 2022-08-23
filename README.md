@@ -18,7 +18,10 @@ width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
 
-
+<p align="center">
+    <img  style=": right;" src="madara.giff.gif" alt="rails" width="360" height= "360" style="max-
+width:100%;">
+</p>
 
 ## Contato
 <div> 
@@ -27,6 +30,8 @@ width:100%;">
   <a href="https://www.linkedin.com/in/yurii-rezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+
 
 
 
