@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE6E96&height=120&section=header"/>
+
+
 ## Meu nome é Yuri Rezende👋
 
 * Moro em Aracaju-SE, Brasil 🌅
@@ -29,9 +32,18 @@ width:100%;">
   <a href = "mailto:yurirezende541@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yurii-rezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/yuri3476/yuri3476/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yuri3476/yuri3476/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yuri3476}/count.svg" /></p> 
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE6E96&height=120&section=footer"/>
 
 
 
