@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE6E96&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Yuri+Rezende;I'm+20+years+old;I+from+Brasil,+SE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuri3476&show_icons=true&count_private=true&hide_border=true&title_color=FE6E96&icon_color=FE6E96&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri3476&layout=compact&hide_border=true&title_color=FE6E96&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 * Moro em Aracaju-SE, Brasil 🌅
 * Estou a procura de oportunidades para aumentar o meu conhecimento🧠
@@ -10,7 +14,7 @@
 * Estudo na UNIT (Universidade Tiradentes) - Sergipe 💻
 
   
-  ##
+##
 
 ## Skills
 
@@ -20,11 +24,19 @@ width:100%;">
 width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
-
-<p align="center">
-    <img  style=": right;" src="madara.giff.gif" alt="rails" width="360" height= "360" style="max-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;">
+                    
+## Frameworks
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;">
+           
+
 
 ## Contato
 <div> 
@@ -39,15 +51,8 @@ width:100%;">
 ##
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yuri3476}/count.svg" /></p> 
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE6E96&height=120&section=footer"/>
-
-
-
-
-
-
-
