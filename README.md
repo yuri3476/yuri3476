@@ -6,14 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuri3476&show_icons=true&count_private=true&hide_border=true&title_color=FE6E96&icon_color=FE6E96&text_color=c9d1d9&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri3476&layout=compact&hide_border=true&title_color=FE6E96&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-* Moro em Aracaju-SE, Brasil 🌅
-* Estou a procura de oportunidades para aumentar o meu conhecimento🧠
-* Atualmente estou focado em aprender HTML, CSS e JAVASCRIPT e seus frameworks 🎓
-* Tenho conhecimento em Python, C++, C# 👨‍🎓
-* Estudo na UNIT (Universidade Tiradentes) - Sergipe 💻
-
-  
+ 
 ##
 
 ## Skills
@@ -50,6 +43,9 @@ width:100%;">
 
 ##
 
+![image](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)	    
+
+##
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yuri3476}/count.svg" /></p> 
