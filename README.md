@@ -1,10 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE6E96&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0061c3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE6E96&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Yuri+Rezende;Tenho+21+anos;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
-
-
- 
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0061c3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Yuri+Rezende;Tenho+21+anos;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 ## Skills
 
@@ -41,8 +37,8 @@ width:100%;">
 
 ##
 <div align="center">
-<br><p align="centre"><b>Visitors</b></p>  
+<br><p align="center"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yuri3476}/count.svg" /></p> 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE6E96&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0061c3&height=120&section=footer"/>
